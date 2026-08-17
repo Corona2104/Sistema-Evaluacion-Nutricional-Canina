@@ -1,4 +1,4 @@
-# NutriCanino
+# Sistema de Evaluación Nutricional Canina
 
 **Sistema Integral de Evaluación Nutricional Canina**
 
@@ -78,7 +78,7 @@ Las celdas vacías indican que el fabricante no proporcionó información oficia
 
 ## Alcance y limitaciones
 
-NutriCanino es una herramienta de apoyo académico y técnico. Los cálculos y recomendaciones no sustituyen la valoración clínica integral, los antecedentes médicos, los resultados de laboratorio ni el criterio del Médico Veterinario Zootecnista. La composición comercial puede cambiar; por ello, debe verificarse la etiqueta y la información oficial vigente del fabricante antes de tomar decisiones clínicas.
+El Sistema de Evaluación Nutricional Canina es una herramienta de apoyo académico y técnico. Los cálculos y recomendaciones no sustituyen la valoración clínica integral, los antecedentes médicos, los resultados de laboratorio ni el criterio del Médico Veterinario Zootecnista. La composición comercial puede cambiar; por ello, debe verificarse la etiqueta y la información oficial vigente del fabricante antes de tomar decisiones clínicas.
 
 ## Referencias base
 
